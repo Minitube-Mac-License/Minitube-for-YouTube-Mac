@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://sc.filehippo.net/images/t_app-icon-l/p/626f1c32-a4d0-11e6-883f-00163ec9f5fa/347621149/minitube-logo" width="200" alt="Minitube for YouTube macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Minitube%20for%20YouTube">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Minitube%20for%20YouTube">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Minitube for YouTube macOS page">
  </a><br><br>
  <div align="center">
